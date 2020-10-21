@@ -2,9 +2,9 @@
 DataComparion Tool for comparing Large files
 
 # Technologies Used
-    -	Apache Spark
-    -	Java
-    -   Spark SQL
+    - Apache Spark
+    - Java
+    - Spark SQL
     
   
  # What is This?
