@@ -3,8 +3,8 @@ DataComparion Tool for comparing Large files
 
 # Technologies Used
    -	Apache Spark
-  -	    Java
-  -	    Avro
+   -	Java
+   -	Avro
     
   
  # What is This?
