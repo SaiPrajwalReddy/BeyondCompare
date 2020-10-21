@@ -2,8 +2,8 @@
 DataComparion Tool for comparing Large files
 
 # Technologies Used
-    -	  Apache Spark
-    -	  Java
+    -	Apache Spark
+    -	Java
     -   Spark SQL
     
   
@@ -20,7 +20,7 @@ DataComparion Tool for comparing Large files
     -   The delimiter that seperates the columns
     -   A Boolean value that determines if the given file has a header
     
-    Using this file we can specify the list of files which need to be compared.
+  Using this file we can specify the list of files which need to be compared.
     
  Run the code using the below input command
  
